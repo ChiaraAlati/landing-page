@@ -1,0 +1,80 @@
+body {
+	background: 245, 245, 245;
+	color: 10, 10, 10;
+	font-size: 20px;
+	font-family: Vollkorn; 
+	text-align: center;
+}
+
+h1{
+  font-family: "Dancing Script", sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 35px;
+  font-style: bold;
+}
+
+h2 {
+  font-family: "Dancing Script", sans-serif;
+  color: #FF756B;
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+p {
+	font-size: 20px;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF756B;
+}
+
+#banner{
+  text-align: left;
+  background-image: url("images/background.jpeg");
+  background-size: cover;
+  padding: 150px 100px 200px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 25px 15px;
+  background: #FF756B;
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.card{
+  padding: 5px;
+  font-weight: lighter;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+#footer a {
+  color: white;
+  font-size: 20px;
+}
+#footer a:hover {
+  color: darkblue;
+}
+
+#something {
+	font-size:20px;
+}
